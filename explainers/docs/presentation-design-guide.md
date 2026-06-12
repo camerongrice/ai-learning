@@ -11,6 +11,8 @@ Instead of vague terms like "professional colors," be explicit:
 - *"High contrast black and white with a single pop color: coral"*
 - *"Muted, earthy tones — terracotta, sand, and olive"*
 
+- "Use a dark navy (#0D1B2A) background with warm amber (#E8A838) accents — no white backgrounds"
+
 ---
 
 ## Typography
